@@ -1,0 +1,24 @@
+# ===== C / C++ 编译产物（gcc.exe 生成，不提交二进制）=====
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+*.dSYM/
+*.stackdump
+
+# ===== Python（02_大模型基础 里的脚本）=====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ===== 系统 / 编辑器临时文件 =====
+.DS_Store
+Thumbs.db
+*.log
+LightChaser-Training-36/01_C语言基础/1-1hello.exe
+LightChaser-Training-36/01_C语言基础/1-1hello.exe
+# Auto detect text files and perform LF normalization
+* text=auto
